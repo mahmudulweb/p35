@@ -104,6 +104,9 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
   color: var(--clr-main);
   z-index: 5;
 }
+.pre-title-two {
+width: 146px;
+}
 .pre-title::before,
 .pre-title::after {
   content: "";
