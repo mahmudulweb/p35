@@ -105,7 +105,10 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
   z-index: 5;
 }
 .pre-title-two {
-width: 146px;
+width: 147px;
+}
+.pre-title-two::after {
+ margin-right: 4px;
 }
 .pre-title::before,
 .pre-title::after {
@@ -126,7 +129,7 @@ width: 146px;
 .pre-title::after {
   left: auto;
   right: 0;
-  margin-right: 3px;
+ 
 }
 
 .overlay-photo-image-bg,
