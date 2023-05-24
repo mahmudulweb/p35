@@ -123,6 +123,7 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
 .pre-title::after {
   left: auto;
   right: 0;
+  margin-right: 3px;
 }
 
 .overlay-photo-image-bg,
