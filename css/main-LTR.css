@@ -4204,6 +4204,7 @@ body.rounded-btns .read-more {
   margin: 1rem 0;
   border-radius: 0.25rem;
   background-color: rgba(var(--clr-main-rgb), 0.15);
+  height          : 662px;
 }
 .blog .posts-grid .post-box:hover .post-img-wrapper .overlay-color {
   opacity: 0.65;
