@@ -7,7 +7,7 @@
 
 ## 🔖 Quick Preview
 
-https://github.com/mahmudulweb/p35/blob/main/PlatKelv%20Concept%20-%20Web%20Development%20-%20Digital%20Market%20-%20Brand%20Activation%20_%20-%20.png
+<img src="https://github.com/mahmudulweb/p35/blob/main/PlatKelv%20Concept%20-%20Web%20Development%20-%20Digital%20Market%20-%20Brand%20Activation%20_%20-%20.png">
 
 
 ---
