@@ -6,14 +6,14 @@
 ---
 
 ## 🔖 Quick Preview
-> Add your design images to the `assets/` folder and update the path(s) below.
+
 
 ![Homepage Preview](assets/preview-home.png)
 
 
 ---
 
-## 📝 Project Overview (সংক্ষিপ্ত)
+## 📝 Project Overview 
 **PlatKelv Concept** is a concept website demonstrating a modern, animated, and responsive layout intended for digital marketing and brand activation campaigns.  
 This repo contains static front-end code — HTML, CSS, jQuery, and JavaScript — used to create interactive UI elements and micro-animations for a strong visual identity.
 
@@ -25,7 +25,7 @@ This repo contains static front-end code — HTML, CSS, jQuery, and JavaScript �
 - **Colors:** Primary accent + neutral background to emphasize CTAs and visuals.
 - **Animations:** Subtle entrance animations, hover interactions, and scroll-triggered reveals.
   - Implemented with CSS transitions/animations and optionally libraries (AOS, Animate.css) or custom JS.
-- **Images & Assets:** Use high-quality PNG/SVG for logos and hero illustrations. Place them in `assets/` folder.
+- **Images & Assets:** Use high-quality PNG/SVG for logos and hero illustrations.
 
 ---
 
@@ -38,4 +38,3 @@ This repo contains static front-end code — HTML, CSS, jQuery, and JavaScript �
 
 ---
 
-## 📁 Recommended Folder Structure
